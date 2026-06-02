@@ -8,7 +8,7 @@ I'm currently completing the **Post Graduate Program in Data Science with Genera
 
 ## 🔨 What I'm Building
 
-- **Autonomous AI Agents** — personal agents for job search automation, investment research, and task management, built on the Anthropic Claude API with WhatsApp/SMS communication layers
+- **Autonomous AI Agents** — personal agents for job search automation, investment research, and task management with communication layers
 - **Data Science Portfolio** — end-to-end projects spanning EDA, statistical hypothesis testing, and predictive modeling
 
 ---
