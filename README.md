@@ -44,4 +44,4 @@ I'm open to roles that combine **data, AI, and leadership** — whether that's a
 
 ## 📫 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/levi-mosely-b323093)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/levi-mosely-b323093b/)
