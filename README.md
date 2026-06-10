@@ -30,7 +30,7 @@ I'm currently completing the **Post Graduate Program in Data Science with Genera
 
 | Project | Description | Tools |
 |---|---|---|
-| [ReCell Price Prediction](https://github.com/Levi-M-Code/data-science-portfolio/tree/main/projects/linear-regression) | Linear regression model predicting used device resale prices across 3,454 devices and 33 brands | pandas, statsmodels, scikit-learn |
+| [ReCell Price Prediction](https://github.com/Levi-M-Code/data-science-portfolio/tree/main/projects/Linear-Regression) | Linear regression model predicting used device resale prices across 3,454 devices and 33 brands | pandas, statsmodels, scikit-learn |
 | [E-News Express A/B Test](https://github.com/Levi-M-Code/data-science-portfolio/tree/main/projects/Inferential-Statistics) | Statistical hypothesis testing to evaluate new landing page effectiveness | scipy, statsmodels |
 | [FoodHub EDA](https://github.com/Levi-M-Code/data-science-portfolio/tree/main/projects/EDA) | Exploratory data analysis of 1,898 food delivery orders with business recommendations | pandas, matplotlib, seaborn |
 
