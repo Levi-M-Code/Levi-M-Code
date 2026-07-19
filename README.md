@@ -16,7 +16,7 @@ I'm currently completing the **Post Graduate Program in Data Science with Genera
 ## 🛠️ Tech Stack
 
 **Languages & Libraries**
-`Python` `pandas` `numpy` `scikit-learn` `statsmodels` `matplotlib` `seaborn`
+`Python` `pandas` `numpy` `scikit-learn` `statsmodels` `xgboost` `imbalanced-learn` `matplotlib` `seaborn`
 
 **Tools & Platforms**
 `Jupyter` `Git` `GitHub` `VS Code` `Anthropic Claude API`
@@ -30,6 +30,7 @@ I'm currently completing the **Post Graduate Program in Data Science with Genera
 
 | Project | Description | Tools |
 |---|---|---|
+| [EasyVisa Approval Prediction](https://github.com/Levi-M-Code/data-science-portfolio/tree/main/projects/ensemble-modeling) | Ensemble models predicting U.S. visa approval across 25,480 applications using Bagging, Random Forest, AdaBoost, Gradient Boosting, and XGBoost with hyperparameter tuning | pandas, scikit-learn, xgboost, imbalanced-learn |
 | [INN Hotels Cancellation Prediction](https://github.com/Levi-M-Code/data-science-portfolio/tree/main/projects/classification-hotels) | Classification models predicting hotel booking cancellations across 36,275 bookings using Logistic Regression and Decision Trees | pandas, scikit-learn, statsmodels |
 | [ReCell Price Prediction](https://github.com/Levi-M-Code/data-science-portfolio/tree/main/projects/Linear-Regression) | Linear regression model predicting used device resale prices across 3,454 devices and 33 brands | pandas, statsmodels, scikit-learn |
 | [E-News Express A/B Test](https://github.com/Levi-M-Code/data-science-portfolio/tree/main/projects/Inferential-Statistics) | Statistical hypothesis testing to evaluate new landing page effectiveness | scipy, statsmodels |
