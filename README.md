@@ -1,8 +1,6 @@
 # Hi, I'm Levi 👋
 
-I'm a former Amazon L7 Senior Operations Leader transitioning into Data Science and AI — combining 10+ years of experience driving decisions at scale with hands-on technical skills in Python, machine learning, and AI agent development.
-
-I'm currently completing the **Post Graduate Program in Data Science with Generative AI** at the **University of Texas at Austin McCombs School of Business**, while independently building autonomous AI agents for real-world applications.
+Former Amazon L7 Senior Operations Leader passionate about building software, AI agents, and intelligent systems that improve how organizations operate. I'm combining 10+ years of operational leadership with postgraduate studies in Data Science and AI to bridge executive decision-making with modern software, automation, and machine learning.
 
 ---
 
