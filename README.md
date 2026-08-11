@@ -1,6 +1,6 @@
 # Hi, I'm Levi 👋
 
-Former Amazon L7 Senior Operations Leader passionate about building software, AI agents, and intelligent systems that improve how organizations operate. I'm combining 10+ years of operational leadership with postgraduate studies in Data Science and AI to bridge executive decision-making with modern software, automation, and machine learning.
+Former Amazon L7 Senior Operations Leader passionate about problem solving and building.  Currently learning to build intelligent systems that improve how organizations operate. I'm combining 10+ years of operational leadership with postgraduate studies in Data Science and AI to bridge executive decision-making with modern software, automation, and machine learning.
 
 ---
 
